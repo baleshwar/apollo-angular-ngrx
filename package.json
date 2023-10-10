@@ -10,7 +10,7 @@
     "@ngrx/store": "5.0.0",
     "apollo-link": "1.0.3",
     "graphql-tag": "2.5.0",
-    "@angular/core": "4.3.6",
+    "@angular/core": "10.2.5",
     "@angular/http": "4.3.6",
     "apollo-client": "2.0.3",
     "@angular/forms": "4.3.6",
